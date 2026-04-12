@@ -1,0 +1,34 @@
+[
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "b7faf403d915ca307532bb0eb9cceaf0214e8e5b",
+        "size": 4688,
+        "url": "https://api.github.com/repos/Svitlana937/aprivateone/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/Svitlana937/aprivateone/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/Svitlana937/aprivateone/git/blobs/b7faf403d915ca307532bb0eb9cceaf0214e8e5b",
+        "download_url": "https://raw.githubusercontent.com/Svitlana937/aprivateone/main/.gitignore?token=BO4IHNISPZKRMINC6PFKC2DJ3PU57AA",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Svitlana937/aprivateone/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/Svitlana937/aprivateone/git/blobs/b7faf403d915ca307532bb0eb9cceaf0214e8e5b",
+            "html": "https://github.com/Svitlana937/aprivateone/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "85239507f5ec23c208ef51503e517c1f68d3105c",
+        "size": 13,
+        "url": "https://api.github.com/repos/Svitlana937/aprivateone/contents/README.md?ref=main",
+        "html_url": "https://github.com/Svitlana937/aprivateone/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/Svitlana937/aprivateone/git/blobs/85239507f5ec23c208ef51503e517c1f68d3105c",
+        "download_url": "https://raw.githubusercontent.com/Svitlana937/aprivateone/main/README.md?token=BO4IHNNSU7WDZ7MCFEAIVVDJ3PU57AA",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Svitlana937/aprivateone/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/Svitlana937/aprivateone/git/blobs/85239507f5ec23c208ef51503e517c1f68d3105c",
+            "html": "https://github.com/Svitlana937/aprivateone/blob/main/README.md"
+        }
+    }
+]
