@@ -7,12 +7,12 @@ This repository contains coursework for the **Web Scraping and API Analysis (WSA
 ### Assignments (`assignments/`)
 This folder contains completed assignment submissions:
 
-- `assignment02-carddraw.ipynb` - Card drawing simulation and analysis
+- `assignment2-carddraw.ipynb` - Card drawing simulation and poker hand analysis
 - `assignment03-cso.ipynb` - Central Statistics Office (CSO) data analysis
 - `assignment04-github.py` - GitHub API integration and repository management
-- `config.py` - API keys and configuration settings
 - `cso.json` - CSO data in JSON format
 - `file.txt` - Sample text file for GitHub API demonstration
+- `test.txt` - Test file
 
 ### Labs (`labs/`)
 This folder contains laboratory exercises and data files:
@@ -20,13 +20,12 @@ This folder contains laboratory exercises and data files:
 - `Lab2_Data.ipynb` - CSV data processing and analysis
 - `Lab2_Trains.ipynb` - Train data analysis and visualization
 - `lab4_api.ipynb` - API integration examples (HTML to PDF, GitHub API)
-- `config.py` - API keys and configuration settings
 - `data.csv` - Sample dataset for data analysis
 - `repo_info.json` - GitHub repository information (JSON format)
 - `repo_info_contents.json` - Repository contents data
 - `trainxml.xml` - Train data in XML format
 - `week03_train.csv` - Weekly train schedule data
-- `document.pdf` - Generated PDF document from API
+- `test.txt` - Test file
 
 ## Prerequisites
 
